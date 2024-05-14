@@ -1,0 +1,20 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Dancing Script", cursive;
+}
+h1,
+h3 {
+  font-family: "Sedan SC", serif;
+}
+header {
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(../images/janko-ferlic-sfL_QOnmy00-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
